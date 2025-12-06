@@ -1,0 +1,25 @@
+# node
+node_modules
+dist
+build
+
+# configs / caches
+.cache
+.vite
+
+# IDE
+.vscode
+.idea
+
+# logs
+*.log
+
+# assets / binaries
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.ico
+*.svg
+*.pdf
+*.zip
