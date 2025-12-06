@@ -34,7 +34,7 @@ Chào mừng bạn đến với **Chat Contract** - Ứng dụng chat phi tập 
 ### 1. Clone repository
 
 ```bash
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/Hoangdev17/chat-contract-fe.git)
 cd chat-contract-fe
 ```
 
